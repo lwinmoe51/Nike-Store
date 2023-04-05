@@ -59,6 +59,7 @@ nav {
 
 .searchInput {
     border: none;
+    outline: none;
     background-color: transparent;
 }
 
